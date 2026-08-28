@@ -22,15 +22,15 @@ The report is structured into dynamic sections to provide comprehensive operatio
 ## 🖼️ Project Previews & Screenshots
 
 ### Home Page
-![Home Page](https://raw.githubusercontent.com/islamyasser424-design/Amazon-Supply-Chain-Dashboard/main/Screenshot%202026-08-28%20225416.jpg)
+![Home Page](https://raw.githubusercontent.com/islamyasser424-design/Amazon-Dashboard/main/Screenshot%202026-08-28%20225416.jpg)
 
 ### Overview Page
-![Overview Page](https://raw.githubusercontent.com/islamyasser424-design/Amazon-Supply-Chain-Dashboard/main/Screenshot%202026-08-28%20225426.png)
+![Overview Page](https://raw.githubusercontent.com/islamyasser424-design/Amazon-Dashboard/main/Screenshot%202026-08-28%20225426.png)
 
 ### Logistics Performance Page
-![Logistics Performance Page](https://raw.githubusercontent.com/islamyasser424-design/Amazon-Supply-Chain-Dashboard/main/Screenshot%202026-08-28%20225435.png)
+![Logistics Performance Page](https://raw.githubusercontent.com/islamyasser424-design/Amazon-Dashboard/main/Screenshot%202026-08-28%20225435.png)
 
 ## 📂 Repository Contents
-* `[.pbix`](https://github.com/islamyasser424-design/Amazon-Dashboard/blob/main/Amazon%20Dashboard.pbix) file (Power BI dashboard)
+* [Amazon Dashboard .pbix file](https://github.com/islamyasser424-design/Amazon-Dashboard/blob/main/Amazon%20Dashboard.pbix) (Power BI dashboard)
 * Cleaned dataset / source files
 * Project preview screenshots
