@@ -22,7 +22,7 @@ The report is structured into dynamic sections to provide comprehensive operatio
 ## 🖼️ Project Previews & Screenshots
 
 ### Home Page
-![Home Page](https://raw.githubusercontent.com/islamyasser424-design/Amazon-Dashboard/main/Screenshot%2026-08-28%225416.png)
+![Home Page](https://raw.githubusercontent.com/islamyasser424-design/Amazon-Dashboard/main/Screenshot%202026-08-28%20225416.png)
 
 ### Overview Page
 ![Overview Page](https://raw.githubusercontent.com/islamyasser424-design/Amazon-Dashboard/main/Screenshot%202026-08-28%20225426.png)
