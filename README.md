@@ -1,5 +1,12 @@
 # 🚀 Amazon Supply Chain Analytics Dashboard
 
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![DAX](https://img.shields.io/badge/DAX-Operational_KPIs-blue?style=for-the-badge)]()
+[![Domain](https://img.shields.io/badge/Domain-Supply_Chain_%26_Logistics-orange?style=for-the-badge)]()
+[![Power Query](https://img.shields.io/badge/ETL-Power_Query_M-teal?style=for-the-badge)]()
+[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-06b6d4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://islamyasser424-design.github.io/portfolio-/)
+
+
 An interactive, end-to-end Business Intelligence project built using Power BI to explore the supply chain domain, focusing on financial performance and operational efficiency to support data-driven decision-making.
 
 ## 📊 Dashboard Insights & Overview
@@ -34,3 +41,19 @@ The report is structured into dynamic sections to provide comprehensive operatio
 * [Amazon Dashboard .pbix file](https://github.com/islamyasser424-design/Amazon-Dashboard/blob/main/Amazon%20Dashboard.pbix) (Power BI dashboard)
 * Cleaned dataset / source files
 * Project preview screenshots
+---
+
+## 👤 Author & Connect
+
+**Islam Yasser**  
+*Data Analyst & Business Intelligence Specialist*
+
+* 🌐 **Portfolio Website:** [islamyasser424-design.github.io/portfolio-](https://islamyasser424-design.github.io/portfolio-/)
+* 💼 **LinkedIn Profile:** [linkedin.com/in/islam-yasser-55048b378](https://www.linkedin.com/in/islam-yasser-55048b378/)
+* 🐙 **GitHub Profile:** [@islamyasser424-design](https://github.com/islamyasser424-design)
+* ✉️ **Email:** [islamyasser424@gmail.com](mailto:islamyasser424@gmail.com)
+
+---
+<p align="center">
+  <sub>Part of the Business Intelligence & Enterprise Analytics Portfolio. Engineered with precision and industry-standard data modeling.</sub>
+</p>
